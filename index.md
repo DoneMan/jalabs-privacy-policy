@@ -1,5 +1,4 @@
 Privacy Policy
-Last updated: [Insert Today’s Date]
 JALabs (“we”, “us”, or “our”) develops and operates mobile games and related services (each referred to as a “Game”). This Privacy Policy explains how we collect, use, and protect information when you use any of our Games.
 1. Information We Collect
 1.1 Automatically Collected Information
